@@ -1,0 +1,4 @@
+/vendor/
+/app/var/jwt/private.pem
+/app/var/jwt/public.pem
+.DS_Store
